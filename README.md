@@ -22,17 +22,13 @@ Please make a pull request if you want to contribute to this project, it is reco
 
 ## Steps to run the app:
 1. Clone or download this repo using the terminal:
-
-<code>
-git clone https://github.com/khuynh22/Note-Stack-App.git
-</code>
+<code>git clone https://github.com/khuynh22/Note-Stack-App.git</code>
 
 2. Follow this document and install all the packages:
 
-'''
-npm install
-npx expo start
-'''
+<code>npm install
+
+npx expo start</code>
 
 Be sure to download Expo app using your phone, and use the same wifi network.
 
