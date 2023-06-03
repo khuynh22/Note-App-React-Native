@@ -27,7 +27,8 @@ Please make a pull request if you want to contribute to this project, it is reco
 
 2. Follow this document and install all the packages:
 
-<code>npm install\\npx expo start</code>
+<code>npm install
+npx expo start</code>
 
 Be sure to download Expo app using your phone, and use the same wifi network.
 
