@@ -23,9 +23,9 @@ Please make a pull request if you want to contribute to this project, it is reco
 ## Steps to run the app:
 1. Clone or download this repo using the terminal:
 
-'''
+<code>
 git clone https://github.com/khuynh22/Note-Stack-App.git
-'''
+</code>
 
 2. Follow this document and install all the packages:
 
