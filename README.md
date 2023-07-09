@@ -1,6 +1,6 @@
 # React Native Note App - Part of the build process for Hoa Sen University Note App
 ## Introduction:
-As part of my internship, I was assigned to program a Note-taking application for the Hoa Sen University, and this is my contributed part to the project, with some modifications.
+As part of my internship, I was assigned to program a Note-taking application for the Hoa Sen University, and this is my contributed part to the project, with some modifications due to NDA.
 
 Please make a pull request if you want to contribute to this project, it is recommended as the project was only developed in a front-end part
 
